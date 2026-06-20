@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rafiq 👋
+# Rafi Eka Pramudya 👋
 
 Informatics Engineering Student @ ITS
 
