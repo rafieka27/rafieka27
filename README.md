@@ -14,9 +14,8 @@ Building systems, solving problems, and occasionally fighting segmentation fault
 ## About Me
 
 - 🎓 Informatics Student at ITS
-- 💻 Interested in Backend Development & Operating Systems
+- 💻 Interested in Generative AI
 - ⚡ Competitive Programming Enthusiast
-- 🌱 Currently learning System Programming and Distributed Systems
 
 ---
 
