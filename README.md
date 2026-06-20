@@ -3,8 +3,6 @@
 </h1>
 <div align="center">
 
-# Rafi Eka Pramudya 👋
-
 Informatics Engineering Student @ ITS
 
 Building systems, solving problems, and occasionally fighting segmentation faults at 2 AM.
