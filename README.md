@@ -54,11 +54,7 @@ while(alive){
 
 ## Featured Projects
 
-### 📂 Mini Shell
-Implementation of a UNIX-like shell in C.
-
-### 📂 Simple File System
-Custom filesystem implementation for Operating Systems course.
+### 📂 Still Alive at Informatics
 
 ### 📂 Competitive Programming Archive
 Collection of solved problems and algorithms.
