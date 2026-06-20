@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Rafi Eka Pramudya" />
+</h1>
 <div align="center">
 
 # Rafi Eka Pramudya 👋
@@ -25,6 +28,7 @@ Building systems, solving problems, and occasionally fighting segmentation fault
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Go](
 
 ### Backend
 
