@@ -5,7 +5,7 @@
 
 Informatics Engineering Student @ ITS
 
-Building systems, solving problems, and occasionally fighting segmentation faults at 2 AM.
+Building systems, solving problems, and debugging until 4 AM.
 
 </div>
 
