@@ -45,7 +45,7 @@ Building systems, solving problems, and debugging until 4 AM.
 while(alive){
     learn();
     build();
-    debug();
+    error();
     repeat();
 }
 ```
